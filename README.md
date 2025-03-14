@@ -1,6 +1,6 @@
 # Ha ha, YES!
 
-Hades II mod that restores Snea Star to it's former glory.
+Hades II mod that restores Snea Snar to it's former glory.
 
 ## Features
 
